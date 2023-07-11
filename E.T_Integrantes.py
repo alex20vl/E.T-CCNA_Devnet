@@ -1,5 +1,5 @@
 integrantes = [
-    'Alexander Vargas',
+    'Alexander Vargas Latorre',
 ]
 
 for integrante in integrantes:
